@@ -5,7 +5,7 @@ I'm a Data Engineer specializing in building scalable data pipelines, ETL proces
 ---
 ## Featured Projects
 
-* **Data Ingest to OneLake - Use Cases (AWS, Snowflake, Azure) **  
+* **Data Ingest to OneLake - Use Cases (AWS, Snowflake, Azure) - Mirroring, Copy data, Shortcuts**  
   Use cases of data ingestion from multiple sources such as AWS S3, Snowflake and Azure DLS, plus use of multiple techniques such as mirroring, shortcuts, copy data
 
 
