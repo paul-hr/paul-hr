@@ -5,17 +5,10 @@ I'm a Data Engineer specializing in building scalable data pipelines, ETL proces
 ---
 ## Featured Projects
 
-* **ETL Pipeline for CRM Migration**  
-  Developed a PySpark and SQL-based ETL process to migrate historical data into Zoho CRM, reducing manual processing by 55-65%. Included web scraping automation for data extraction, cutting load times by 70%. 
+* **Data Ingest to OneLake - Use Cases (AWS, Snowflake, Azure) **  
+  Use cases of data ingestion from multiple sources such as AWS S3, Snowflake and Azure DLS, plus use of multiple techniques such as mirroring, shortcuts, copy data
 
-* **Automated Economic Data Scraping & Reporting**  
-  Built Python web scraping scripts with Polars and Pandas for collecting data from economic, employment, real estate, and tourism portals. Automated daily reports via Jupyter Notebooks to Microsoft Teams, ensuring clean integration into macro-economic databases. Enhanced with data validation for high-volume updates. 
-* **AWS Glue ETL Optimization**  
-  Migrated ETL scripts from library-dependent to native Spark for improved efficiency in AWS Glue. Orchestrated pipelines using Step Functions and supported Power BI dashboard enhancements for client requirements. (Repository: 
 
-* **Event Analytics Data Warehouse**  
-  Designed database structures and processed large volumes of data for analyzing participation in fairs, congresses, and campaigns. Generated automated KPI reports in Power BI and Python for commercial insights. 
-  
 ---
 ## Tech Stack
 
