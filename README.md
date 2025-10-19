@@ -1,6 +1,6 @@
 <h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="38px">, I'm Paul Huaroc </h1>
 
-I'm a Data Engineer specializing in building scalable data pipelines, ETL processes, and cloud-based analytics solutions. With hands-on experience in processing large-scale datasets, automating workflows with Python, and leveraging tools like AWS, Azure, and Databricks, I focus on delivering secure, efficient, and business-value-driven data architectures.
+I'm a Data Engineer enthusiast specializing in building scalable data pipelines, ETL processes, and cloud-based analytics solutions. With hands-on experience in processing large-scale datasets, automating workflows with Python, and leveraging tools like AWS, Azure, and Databricks, I focus on delivering secure, efficient, and business-value-driven data architectures.
 
 ---
 ## Featured Projects
